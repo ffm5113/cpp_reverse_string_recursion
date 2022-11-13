@@ -11,7 +11,7 @@ const string TITLE = "Reverse String Recursion Program";
 const string AUTHOR_LINE = "By Forrest Moulin";
 
 // Function prototypes to notify compiler
-void reverseStr(string s, int i);
+void reverseStr(string intputStr, int i);
 
 int main()
 {
